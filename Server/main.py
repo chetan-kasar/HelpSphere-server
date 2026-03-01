@@ -12,7 +12,7 @@ CORS(app)
 def index():
     data = request.get_json()
     response = client.models.generate_content(
-        model='gemini-3-flash-preview',
+        model='gemma-3-1b-it',
         contents=data.get("prompt")
     )
     return response.text
