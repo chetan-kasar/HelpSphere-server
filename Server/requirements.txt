@@ -2,3 +2,4 @@ Flask
 Flask-Cors
 Pillow
 google-generativeai
+google-genai
