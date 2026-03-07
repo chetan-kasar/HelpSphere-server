@@ -4,8 +4,12 @@ Chetan Kasar has worked on projects involving machine learning, RAG systems, and
 Chetan Kasar is currently based in Nashik city, Maharashtra, India.
 Chetan Kasar's email is chetan@example.com and phone is +91-1234567876.
 Chetan Kasar worked at Winjit Technologies as a software developer from 2024 to Present (2026).
+Chetan Kasar current company is Winjit Technologies.
+Chetan Kasar is currently employed at Winjit Technologies since 2024.
+Chetan Kasar job is at Winjit Technologies as a software developer.
 Chetan Kasar has developed multiple AI projects. His project HelpSphere is a text generation application available at https://help-sphere-frontend.vercel.app/
 Chetan Kasar built ImageWave which is an image generation project available at https://image-wave.vercel.app/
 Chetan Kasar created ImageSense which is an image detection project available at https://image-sense.vercel.app/
 Chetan Kasar projects include HelpSphere for text generation, ImageWave for image generation, and ImageSense for image detection.
 Chetan Kasar portfolio projects can be found at these links: HelpSphere https://help-sphere-frontend.vercel.app/ ImageWave https://image-wave.vercel.app/ ImageSense https://image-sense.vercel.app/
+
