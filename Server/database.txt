@@ -1,9 +1,11 @@
-Chetan Kasar is a software engineer with 5 years of experience in Python and AI.
-Chetan Kasar graduated from XYZ University with a degree in Computer Science in 2019.
-Chetan Kasar has worked on projects involving machine learning, RAG systems, and NLP.
+Chetan Kasar is a software developer with 2 years of experience in .NET and Python, AI.
+Chetan Kasar graduated from MET Bhujbal Knowledge City with a degree in Computer Science in 2024.
+Chetan Kasar has worked on projects involving machine learning, RAG systems, and NLP, Image generation.
 Chetan Kasar is currently based in Nashik city, Maharashtra, India.
-Chetan Kasar's email is chetan@example.com and phone is +91-12XXXXXX12.
-Chetan Kasar worked at ABC Corp from 2019 to 2022 as a junior developer.
-Chetan Kasar is currently working at XYZ Tech as a senior AI engineer.
-
-Date of birth os Chetan kasar is 01/02/2003
+Chetan Kasar's email is chetan@example.com and phone is +91-1234567876.
+Chetan Kasar worked at Winjit Technologies as a software developer from 2024 to Present (2026).
+Chetan Kasar has developed multiple AI projects. His project HelpSphere is a text generation application available at https://help-sphere-frontend.vercel.app/
+Chetan Kasar built ImageWave which is an image generation project available at https://image-wave.vercel.app/
+Chetan Kasar created ImageSense which is an image detection project available at https://image-sense.vercel.app/
+Chetan Kasar projects include HelpSphere for text generation, ImageWave for image generation, and ImageSense for image detection.
+Chetan Kasar portfolio projects can be found at these links: HelpSphere https://help-sphere-frontend.vercel.app/ ImageWave https://image-wave.vercel.app/ ImageSense https://image-sense.vercel.app/
