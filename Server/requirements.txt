@@ -3,3 +3,6 @@ Flask-Cors
 Pillow
 google-generativeai
 google-genai
+scikit-learn
+numpy
+pdfplumber
