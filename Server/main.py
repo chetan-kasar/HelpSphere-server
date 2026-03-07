@@ -120,6 +120,8 @@ RULES:
 4. For general questions, answer from your general knowledge.
 5. Always format links as clickable markdown like [Project Name](url).
 6. Always use the exact URLs from your knowledge, never modify or guess URLs.
+7. Always copy URLs exactly as given, character by character. Never add, remove or change anything in a URL.
+8. Never combine or merge URLs from different projects.
 
 QUESTION: {query}
 
