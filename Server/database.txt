@@ -1,8 +1,9 @@
 Chetan Kasar is a software engineer with 5 years of experience in Python and AI.
 Chetan Kasar graduated from XYZ University with a degree in Computer Science in 2019.
 Chetan Kasar has worked on projects involving machine learning, RAG systems, and NLP.
-Chetan Kasar is currently based in Nashik, Maharashtra, India.
+Chetan Kasar is currently based in Nashik city, Maharashtra, India.
 Chetan Kasar's email is chetan@example.com and phone is +91-12XXXXXX12.
 Chetan Kasar worked at ABC Corp from 2019 to 2022 as a junior developer.
 Chetan Kasar is currently working at XYZ Tech as a senior AI engineer.
+
 Date of birth os Chetan kasar is 01/02/2003
