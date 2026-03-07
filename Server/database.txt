@@ -11,5 +11,6 @@ Chetan Kasar has developed multiple AI projects. His project HelpSphere is a tex
 Chetan Kasar built ImageWave which is an image generation project available at https://image-wave.vercel.app/
 Chetan Kasar created ImageSense which is an image detection project available at https://image-sense.vercel.app/
 Chetan Kasar projects include HelpSphere for text generation, ImageWave for image generation, and ImageSense for image detection.
-Chetan Kasar portfolio projects can be found at these links: HelpSphere https://help-sphere-frontend.vercel.app/ ImageWave https://image-wave.vercel.app/ ImageSense https://image-sense.vercel.app/
+Chetan Kasar portfolio projects can be found at these links: 1. HelpSphere - https://help-sphere-frontend.vercel.app/ 2. ImageWave - https://image-wave.vercel.app/ 3. ImageSense - https://image-sense.vercel.app/
+
 
