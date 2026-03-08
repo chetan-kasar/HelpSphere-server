@@ -41,14 +41,23 @@ def load_document(file_path: str) -> str:
         raise ValueError(f"Unsupported file type: {ext}. Use .txt or .pdf")
 
 
-def chunk_text(text: str, chunk_size: int = 20, overlap: int = 10) -> list:
-    """Split large text into overlapping word-level chunks."""
-    words = text.split()
+def chunk_text(text: str, chunk_size: int = 50, overlap: int = 10) -> list[str]:
+    """Split text by sentences to avoid cutting mid-sentence."""
+    import re
+    
+    # Split by sentence endings
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+    sentences = [s.strip() for s in sentences if s.strip()]
+    
     chunks = []
-    for i in range(0, len(words), chunk_size - overlap):
-        chunk = " ".join(words[i: i + chunk_size])
+    i = 0
+    while i < len(sentences):
+        chunk_sentences = sentences[i:i+3]  # Group 3 sentences per chunk
+        chunk = " ".join(chunk_sentences)
         if chunk.strip():
             chunks.append(chunk)
+        i += 2  # overlap of 1 sentence
+    
     return chunks
 
 
